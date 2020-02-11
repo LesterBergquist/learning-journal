@@ -1,5 +1,5 @@
 # Read-01---Learning-Markdown
-learning markdown assignment (not pretty, but done)
+learning markdown assignment (not pretty, but done!)
 
 
 Markdown is a way to style text on the web. It is mostly done with a few characters, like # or *.  
