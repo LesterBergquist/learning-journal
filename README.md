@@ -11,3 +11,5 @@ Reading Steve Haffenden's piece on **the growth mindset**, I found I sympathized
 ### 1 humility
 ### 2 grit
 ### 3 help
+###
+> https://lesterbergquist.github.io/learning-journal/
