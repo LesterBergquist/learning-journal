@@ -2,10 +2,12 @@
 
 
 
-### The growth mindset, to me, is about meta-learning, learning how we learn.
-### The myth is that you're born knowing.
+### The growth mindset, to me, is about meta-learning--understanding *how* we learn.
+### The pervasive way of looking at learning is that others were born knowing, and you will never learn.
 ### But it's a habit that is built.
 Reading Steve Haffenden's piece on **the growth mindset**, I found I sympathized with his relationship to the *snooze* button.
+It's a great metaphor for how things you know you have to do always feel most daunting just before you actually start doing them.
+
 
 ### Three things I need to keep myself from giving up:
 ### 1 humility
